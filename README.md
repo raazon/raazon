@@ -5,7 +5,7 @@
 - 💬 Ask me about WordPress, PHP, JavaScript
 - 📫 How to reach me: razonkumar@gmail.com
 - 😄 Pronouns: Razon
-- ⚡ Fun fact: I've been working as a Web Developer for more than ten decade
+- ⚡ Fun fact: I've been working as a Web Developer over a decade
 
 <!-- I'm Razon, a Senior Web Developer with over ten years of expertise in the industry. My focus lies in WordPress, PHP, JavaScript, and React.js. -->
 
