@@ -1,6 +1,6 @@
 ### Hi 👋
 - 🔭 I’m currently working on [Gutenberg](https://wordpress.org/gutenberg/) addon
-- 🌱 I’m currently learning agile & team building
+- 🌱 I’m currently learning team building
 - 👯 I’m looking to collaborate on WordPress core
 - 💬 Ask me about WordPress, PHP, JavaScript
 - 📫 How to reach me: razonkumar@gmail.com
