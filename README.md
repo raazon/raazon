@@ -55,9 +55,13 @@
 [![StackOverflow Badge](https://img.shields.io/badge/stackoverflow-f58025?style=for-the-badge&logo=stackoverflow&logoColor=fff)](https://stackoverflow.com/u/7196955)
 [![Email Badge](https://img.shields.io/badge/email-ea4336?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:razonkumar@gmail.com)
 
+<!-- 
 ### My GitHub Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raazon&card_width=420)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=razon-xs&card_width=420)
 
 ![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raazon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razon-xs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
+
+
