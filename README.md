@@ -63,5 +63,3 @@
 ![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raazon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razon-xs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
-
-
