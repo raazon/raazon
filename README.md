@@ -1,6 +1,12 @@
 # Hi there 👋 I'm Razon
 
-🚀 WordPress Developer at WPMU DEV with 12+ years of experience building scalable plugins, Gutenberg-powered experiences, and modern web applications.
+🚀 WordPress Developer at **WPMU DEV** with 12+ years of experience building scalable WordPress products, Gutenberg-powered experiences, and modern web applications.
+
+I specialize in WordPress plugin development, architecture, Gutenberg, WooCommerce, and performance-focused engineering.
+
+---
+
+## 👨‍💻 About Me
 
 - 🔭 Currently working at **WPMU DEV**
 - 🌱 Currently learning **AI-assisted development, LLM integrations, and advanced AI workflows for developer productivity**
@@ -8,6 +14,29 @@
 - 💬 Ask me about **WordPress, Gutenberg, PHP, JavaScript, React, and Plugin Architecture**
 - 📫 Reach me at: **razonkumar@gmail.com**
 - ⚡ Fun fact: I’ve been building for the web for over a decade and still enjoy debugging 😄
+
+---
+
+## 📈 Career Highlights
+
+- 🚀 Helped grow **ElementsKit** from **700K to 2M active installations**
+- ⚡ Led development of multiple flagship WordPress plugins
+- 🧠 12+ years of professional web development experience
+- 👥 3+ years of team leadership experience
+- 🏗️ Specialized in scalable plugin architecture & Gutenberg ecosystems
+
+---
+
+## 🚀 Featured Products
+
+- 🔹 [ElementsKit](https://wordpress.org/plugins/elementskit-lite/)  
+  Advanced Elementor addon powering millions of WordPress websites
+
+- 🔹 [GutenKit](https://wordpress.org/plugins/gutenkit-blocks-addon/)  
+  Modern Gutenberg blocks toolkit for block editor workflows
+
+- 🔹 [PopupKit](https://wordpress.org/plugins/popup-builder-block/)  
+  Gutenberg-powered popup builder plugin
 
 ---
 
@@ -60,6 +89,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raazon&card_width=840)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raazon)
+
+---
+
 ## 🌐 Connect With Me
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0b66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raazon/)
@@ -70,10 +107,4 @@
 
 ---
 
-<!--
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raazon&card_width=420)
-
-![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raazon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+![](https://komarev.com/ghpvc/?username=raazon&color=blueviolet)
