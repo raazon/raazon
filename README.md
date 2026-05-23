@@ -43,7 +43,7 @@ I specialize in WordPress plugin development, architecture, Gutenberg, WooCommer
 ## 💼 Work Experience
 
 ### **WPMU DEV** — WordPress Developer  
-*2026 - Present*
+*Dec 2025 - Present*
 
 ### **Roxnor** — Senior Web Developer  
 *Jan 2021 - 2026*
