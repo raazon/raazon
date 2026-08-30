@@ -1,88 +1,118 @@
 # Hi there 👋 I'm Razon
 
-🚀 Web Developer & Full Stack Developer with 12+ years of experience building scalable web applications, WordPress products, Gutenberg-powered experiences, and modern digital platforms.
+🚀 **Web Developer & Full Stack Developer** with 12+ years of experience building scalable web applications, WordPress products, Gutenberg-powered experiences, and modern digital platforms.
 
-I specialize in WordPress development, plugin architecture, Gutenberg, WooCommerce, PHP, JavaScript, React, Node.js, and full-stack application development, with a strong focus on scalable architecture, performance, maintainability, and developer experience.
+I specialize in **WordPress development, plugin architecture, Gutenberg, WooCommerce, PHP, JavaScript, React, Node.js, and full-stack application development**, with a strong focus on scalable architecture, performance, maintainability, and developer experience.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working at **WPMU DEV**
-- 🌱 Currently learning **AI-assisted development, LLM integrations, and advanced AI workflows for developer productivity**
-- 👯 Looking to collaborate on **WordPress Core & Gutenberg ecosystem**
-- 💬 Ask me about **WordPress, Gutenberg, PHP, JavaScript, React, and Plugin Architecture**
-- 📫 Reach me at: **razonkumar@gmail.com**
-- ⚡ Fun fact: I’ve been building for the web for over a decade and still enjoy debugging 😄
+- 🧑‍💻 **12+ years** of professional web development experience
+- 🏗️ Experienced in **WordPress plugin architecture, full-stack applications, and scalable web systems**
+- ⚛️ Building modern applications with **React, TypeScript, and REST APIs**
+- 🧩 Deep expertise in **WordPress, Gutenberg, WooCommerce, and the WordPress ecosystem**
+- 🤖 Exploring **AI-assisted development, LLM integrations, and AI-powered developer workflows**
+- 👥 **3+ years of team leadership** and experience leading product development
+- 💬 Ask me about **WordPress, PHP, JavaScript, React, Gutenberg, WooCommerce, and software architecture**
+- 📫 Reach me at **razonkumar@gmail.com**
+- ⚡ I've been building for the web for over a decade — and I still enjoy debugging 😄
 
 ---
 
 ## 📈 Career Highlights
 
-- 🚀 Helped grow **ElementsKit** from **700K to 2M active installations**
-- ⚡ Led development of multiple flagship WordPress plugins
-- 🧠 12+ years of professional web development experience
-- 👥 3+ years of team leadership experience
-- 🏗️ Specialized in scalable plugin architecture & Gutenberg ecosystems
+- 🚀 Helped grow **ElementsKit** from **700K to nearly 2M active installations**
+- 🏗️ Led and contributed to the development of multiple **production-grade WordPress plugins**
+- 🧩 Designed and developed **scalable plugin architectures and Gutenberg-based systems**
+- 👥 Led development teams and collaborated across product, engineering, and support
+- 🌐 Built solutions across the **WordPress, frontend, backend, and full-stack ecosystems**
+- 🧠 12+ years of professional experience in **web and software development**
 
 ---
 
-## 🚀 Featured Products I Worked On
+## 🚀 Selected Products & Contributions
 
-- 🔹 [ElementsKit](https://wordpress.org/plugins/elementskit-lite/)  
-  Advanced Elementor addon powering millions of WordPress websites
+These are products I have worked on and contributed to throughout my career.
 
-- 🔹 [Forminator](https://wordpress.org/plugins/forminator/)  
-  Contact Form, Payment Form & Custom Form Builder
+### 🔹 [ElementsKit](https://wordpress.org/plugins/elementskit-lite/)
 
-- 🔹 [GutenKit](https://wordpress.org/plugins/gutenkit-blocks-addon/)  
-  Modern Gutenberg blocks toolkit for block editor workflows
+Advanced Elementor addon powering millions of WordPress websites.
 
-- 🔹 [PopupKit](https://wordpress.org/plugins/popup-builder-block/)  
-  Gutenberg-powered popup builder plugin
+### 🔹 [Forminator](https://wordpress.org/plugins/forminator/)
 
-- 🔹 [TableKit](https://wordpress.org/plugins/table-builder-block/)  
-  WordPress Table Builder for Data Tables, WooCommerce Product Tables & Post Tables
+Flexible form builder for contact forms, payment forms, quizzes, polls, and more.
+
+### 🔹 [GutenKit](https://wordpress.org/plugins/gutenkit-blocks-addon/)
+
+Modern Gutenberg toolkit for building websites with the WordPress block editor.
+
+### 🔹 [PopupKit](https://wordpress.org/plugins/popup-builder-block/)
+
+Gutenberg-powered popup builder for creating flexible website popups.
+
+### 🔹 [TableKit](https://wordpress.org/plugins/table-builder-block/)
+
+WordPress table builder for data tables, WooCommerce product tables, and post tables.
 
 ---
 
 ## 💼 Work Experience
 
-### **WPMU DEV** — WordPress Developer  
-*Dec 2025 - Present*
+### **WPMU DEV** — WordPress Developer
 
-### **Roxnor** — Senior Web Developer  
-*Jan 2021 - 2026*
+*Dec 2025 – Present*
 
-### **ITclan BD** — WordPress Theme & Plugin Developer  
-*Dec 2017 - Dec 2020*
+### **Roxnor** — Senior Web Developer
 
-### **Cloud Software Solution Ltd** — Junior Software Engineer  
-*Feb 2016 - Nov 2017*
+*Jan 2021 – 2025*
+
+### **ITclan BD** — WordPress Theme & Plugin Developer
+
+*Dec 2017 – Dec 2020*
+
+### **Cloud Software Solution Ltd** — Junior Software Engineer
+
+*Feb 2016 – Nov 2017*
 
 ---
 
 ## 🛠️ Technical Skills
 
-![WordPress Badge](https://img.shields.io/badge/wordpress-0073aa?style=for-the-badge&logo=wordpress&labelColor=191E23)
-![WooCommerce Badge](https://img.shields.io/badge/woocommerce-7f54b2?style=for-the-badge&logo=woocommerce&labelColor=191E23)
-![Gutenberg Badge](https://img.shields.io/badge/gutenberg-whitesmoke?style=for-the-badge&logo=gutenberg&labelColor=191E23)
+### Languages & Core Technologies
+
 ![PHP Badge](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&labelColor=191E23)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-f7df1c?style=for-the-badge&logo=javascript&labelColor=191E23)
 ![TypeScript Badge](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&labelColor=191E23)
-![ReactJS Badge](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&labelColor=191E23)
-![NodeJS Badge](https://img.shields.io/badge/nodejs-349934?style=for-the-badge&logo=node.js&labelColor=191E23)
-![MongoDB Badge](https://img.shields.io/badge/mongodb-48a248?style=for-the-badge&logo=mongodb&labelColor=191E23)
-![AI Badge](https://img.shields.io/badge/AI-Assisted_Development-8b5cf6?style=for-the-badge&logo=openai&labelColor=191E23)
-![jQuery Badge](https://img.shields.io/badge/jquery-1f6faa?style=for-the-badge&logo=jquery&labelColor=191E23)
 ![HTML5 Badge](https://img.shields.io/badge/html5-e35026?style=for-the-badge&logo=html5&labelColor=191E23)
 ![CSS3 Badge](https://img.shields.io/badge/css3-2865f0?style=for-the-badge&logo=css3&labelColor=191E23)
 ![SASS Badge](https://img.shields.io/badge/sass-cc6599?style=for-the-badge&logo=sass&labelColor=191E23)
+
+### Frontend
+
+![ReactJS Badge](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&labelColor=191E23)
+![jQuery Badge](https://img.shields.io/badge/jquery-1f9cf0?style=for-the-badge&logo=jquery&labelColor=191E23)
 ![TailwindCSS Badge](https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&labelColor=191E23)
+
+### Backend & Database
+
+![NodeJS Badge](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&labelColor=191E23)
+![MySQL Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=191E23)
+![MongoDB Badge](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&labelColor=191E23)
+
+### WordPress & Ecommerce
+
+![WordPress Badge](https://img.shields.io/badge/wordpress-0073aa?style=for-the-badge&logo=wordpress&labelColor=191E23)
+![WooCommerce Badge](https://img.shields.io/badge/woocommerce-7f54b2?style=for-the-badge&logo=woocommerce&labelColor=191E23)
+![Gutenberg Badge](https://img.shields.io/badge/gutenberg-whitesmoke?style=for-the-badge&logo=gutenberg&labelColor=191E23)
+
+### AI
+
+![AI Badge](https://img.shields.io/badge/AI-Assisted_Development-8b5cf6?style=for-the-badge&logo=openai&labelColor=191E23)
 
 ---
 
-## ⚙️ Tools I Use
+## ⚙️ Tools & Workflow
 
 ![Git Badge](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&labelColor=191E23)
 ![GitHub Badge](https://img.shields.io/badge/github-ffffff?style=for-the-badge&logo=github&labelColor=191E23&logoColor=000)
@@ -98,8 +128,6 @@ I specialize in WordPress development, plugin architecture, Gutenberg, WooCommer
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raazon&card_width=840)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raazon)
 
 ---
 
