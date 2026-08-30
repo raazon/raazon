@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Razon
 
-🚀 WordPress Developer at **WPMU DEV** with 12+ years of experience building scalable WordPress products, Gutenberg-powered experiences, and modern web applications.
+🚀 Web Developer & Full Stack Developer with 12+ years of experience building scalable web applications, WordPress products, Gutenberg-powered experiences, and modern digital platforms.
 
-I specialize in WordPress plugin development, architecture, Gutenberg, WooCommerce, and performance-focused engineering.
+I specialize in WordPress development, plugin architecture, Gutenberg, WooCommerce, PHP, JavaScript, React, Node.js, and full-stack application development, with a strong focus on scalable architecture, performance, maintainability, and developer experience.
 
 ---
 
@@ -27,16 +27,22 @@ I specialize in WordPress plugin development, architecture, Gutenberg, WooCommer
 
 ---
 
-## 🚀 Featured Products
+## 🚀 Featured Products I Worked On
 
 - 🔹 [ElementsKit](https://wordpress.org/plugins/elementskit-lite/)  
   Advanced Elementor addon powering millions of WordPress websites
+
+- 🔹 [Forminator](https://wordpress.org/plugins/forminator/)  
+  Contact Form, Payment Form & Custom Form Builder
 
 - 🔹 [GutenKit](https://wordpress.org/plugins/gutenkit-blocks-addon/)  
   Modern Gutenberg blocks toolkit for block editor workflows
 
 - 🔹 [PopupKit](https://wordpress.org/plugins/popup-builder-block/)  
   Gutenberg-powered popup builder plugin
+
+- 🔹 [TableKit](https://wordpress.org/plugins/table-builder-block/)  
+  WordPress Table Builder for Data Tables, WooCommerce Product Tables & Post Tables
 
 ---
 
