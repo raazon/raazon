@@ -61,19 +61,27 @@ WordPress table builder for data tables, WooCommerce product tables, and post ta
 
 ### **WPMU DEV** — WordPress Developer
 
-*Dec 2025 – Present*
+*Dec 2025 – Aug 2026*
 
-### **Roxnor** — Senior Web Developer
+### **Roxnor** — Senior Full-Stack Web Developer
 
 *Jan 2021 – 2025*
 
-### **ITclan BD** — WordPress Theme & Plugin Developer
+### **ITclan BD** — Full-Stack WordPress Developer
 
 *Dec 2017 – Dec 2020*
 
 ### **Cloud Software Solution Ltd** — Junior Software Engineer
 
 *Feb 2016 – Nov 2017*
+
+### **Prestige Brokers Group LLC** — Web Developer
+
+*Jan 2015 – Dec 2016*
+
+### **Euroboats Yachtcharter GmbH** — WordPress Developer
+
+*April 2014 – Nov 2014*
 
 ---
 
