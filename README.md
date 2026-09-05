@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Razon
 
-🚀 **Web Developer & Full Stack Developer** with 12+ years of experience building scalable web applications, WordPress products, Gutenberg-powered experiences, and modern digital platforms.
+🚀 **WordPress Developer & Full Stack Web Developer** with 12+ years of experience building scalable web applications, WordPress products, Gutenberg-powered experiences, and modern digital platforms.
 
 I specialize in **WordPress development, plugin architecture, Gutenberg, WooCommerce, PHP, JavaScript, React, Node.js, and full-stack application development**, with a strong focus on scalable architecture, performance, maintainability, and developer experience.
 
@@ -61,11 +61,11 @@ WordPress table builder for data tables, WooCommerce product tables, and post ta
 
 ### **WPMU DEV** — WordPress Developer
 
-*Dec 2025 – Aug 2026*
+*Remote | Dec 2025 – Aug 2026*
 
 ### **Roxnor** — Senior Full-Stack Web Developer
 
-*Jan 2021 – 2025*
+*Jan 2021 – Dec 2025*
 
 ### **ITclan BD** — Full-Stack WordPress Developer
 
@@ -77,11 +77,15 @@ WordPress table builder for data tables, WooCommerce product tables, and post ta
 
 ### **Prestige Brokers Group LLC** — Web Developer
 
-*Jan 2015 – Dec 2016*
+*Remote | Jan 2015 – Dec 2016*
 
 ### **Euroboats Yachtcharter GmbH** — WordPress Developer
 
-*April 2014 – Nov 2014*
+*Remote | Mar 2014 – Nov 2014*
+
+### **Upwork & Fiverr** — Freelance WordPress Developer
+
+*Remote | 2012 – 2014*
 
 ---
 
