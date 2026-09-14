@@ -1,29 +1,30 @@
 # Hi there 👋 I'm Razon
 
-🚀 **WordPress Developer & Full Stack Web Developer** with 12+ years of experience building scalable web applications, WordPress products, Gutenberg-powered experiences, and modern digital platforms.
+🚀 **Full-Stack Web Developer** building and scaling web applications, WordPress products, and SaaS platforms that solve business needs and support product growth.
 
-I specialize in **WordPress development, plugin architecture, Gutenberg, WooCommerce, PHP, JavaScript, React, Node.js, AI/LLM integrations, AI-assisted development workflows and full-stack application development**, with a strong focus on scalable architecture, performance, maintainability, and developer experience.
+I specialize in **PHP, WordPress, WooCommerce, JavaScript, TypeScript, React, HTML, CSS, Gutenberg, REST APIs, and MySQL**, with experience building AI/LLM integrations and automation workflows using n8n and OpenClaw.
+
+I work across the full development lifecycle, from **architecture and frontend/backend development to testing, deployment, and maintenance**, building software that meets real business needs.
 
 ---
-
 ## 👨‍💻 About Me
 
-- 🧑‍💻 **12+ years** of professional web development experience
-- 🏗️ Experienced in **WordPress plugin architecture, full-stack applications, and scalable web systems**
-- ⚛️ Building modern applications with **React, TypeScript, and REST APIs**
-- 🧩 Deep expertise in **WordPress, Gutenberg, WooCommerce, and the WordPress ecosystem**
-- 🤖 Exploring **AI-assisted development, LLM integrations, and AI-powered developer workflows**
-- 👥 **3+ years of team leadership** and experience leading product development
-- 💬 Ask me about **WordPress, PHP, JavaScript, React, Gutenberg, WooCommerce, and software architecture**
-- 📫 Reach me at **razonkumar@gmail.com**
-- ⚡ I've been building for the web for over a decade — and I still enjoy debugging 😄
+* 🧑‍💻 **Senior Full-Stack Web Developer** building and scaling web applications, WordPress products, and SaaS platforms
+* 🏗️ Experienced in **software architecture, full-stack development, and end-to-end product development**
+* ⚛️ Building frontend applications with **React, TypeScript, JavaScript, HTML, CSS, and REST APIs**
+* 🧩 Specialized in **WordPress, Gutenberg, WooCommerce, plugin development, and the WordPress ecosystem**
+* 🤖 Working with **AI/LLM integrations and AI-assisted development workflows**
+* 👥 **Technical leadership, team mentorship, code review, and development lifecycle management**
+* 💬 Ask me about **WordPress, PHP, JavaScript, React, Gutenberg, WooCommerce, APIs, and software architecture**
+* 📫 Reach me at **[razonkumar@gmail.com](mailto:razonkumar@gmail.com)**
+* ⚡ I enjoy turning complex requirements into **simple, maintainable software**
 
 ---
 
 ## 📈 Career Highlights
 
-- 🚀 Helped grow **ElementsKit** from **700K to nearly 2M active installations**
-- 🏗️ Led and contributed to the development of multiple **production-grade WordPress plugins**
+- 🚀 Led **ElementsKit’s** growth from **700K to nearly 2M active installations**
+- 🏗️ Led and contributed to the development of multiple **advanced WordPress plugins**
 - 🧩 Designed and developed **scalable plugin architectures and Gutenberg-based systems**
 - 👥 Led development teams and collaborated across product, engineering, and support
 - 🌐 Built solutions across the **WordPress, frontend, backend, and full-stack ecosystems**
@@ -75,7 +76,7 @@ WordPress table builder for data tables, WooCommerce product tables, and post ta
 
 *Jan 2021 – Dec 2025*
 
-### **ITclan BD** — Full-Stack WordPress Developer
+### **ITclan BD** — WordPress Developer
 
 *Dec 2017 – Dec 2020*
 
@@ -99,56 +100,11 @@ WordPress table builder for data tables, WooCommerce product tables, and post ta
 
 ## 🛠️ Technical Skills
 
-### Languages & Core Technologies
-
-![PHP Badge](https://img.shields.io/badge/php-777bb4?style=for-the-badge\&logo=php\&labelColor=191E23)
-![JavaScript Badge](https://img.shields.io/badge/javascript-f7df1c?style=for-the-badge\&logo=javascript\&labelColor=191E23)
-![TypeScript Badge](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge\&logo=typescript\&labelColor=191E23)
-![HTML5 Badge](https://img.shields.io/badge/html5-e35026?style=for-the-badge\&logo=html5\&labelColor=191E23)
-![CSS3 Badge](https://img.shields.io/badge/css3-2865f0?style=for-the-badge\&logo=css3\&labelColor=191E23)
-![SASS Badge](https://img.shields.io/badge/sass-cc6599?style=for-the-badge\&logo=sass\&labelColor=191E23)
-
-### Frontend
-
-![ReactJS Badge](https://img.shields.io/badge/react-61dafb?style=for-the-badge\&logo=react\&labelColor=191E23)
-![TailwindCSS Badge](https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge\&logo=tailwindcss\&labelColor=191E23)
-![jQuery Badge](https://img.shields.io/badge/jquery-1f9cf0?style=for-the-badge\&logo=jquery\&labelColor=191E23)
-
-### Backend & Database
-
-![NodeJS Badge](https://img.shields.io/badge/nodejs-339933?style=for-the-badge\&logo=node.js\&labelColor=191E23)
-![MySQL Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white\&labelColor=191E23)
-![MongoDB Badge](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge\&logo=mongodb\&labelColor=191E23)
-
-### WordPress & Ecommerce
-
-![WordPress Badge](https://img.shields.io/badge/wordpress-0073aa?style=for-the-badge\&logo=wordpress\&labelColor=191E23)
-![WooCommerce Badge](https://img.shields.io/badge/woocommerce-7f54b2?style=for-the-badge\&logo=woocommerce\&labelColor=191E23)
-![Gutenberg Badge](https://img.shields.io/badge/gutenberg-whitesmoke?style=for-the-badge\&logo=gutenberg\&labelColor=191E23)
-
-### AI & Smart Integrations
-
-![OpenAI Badge](https://img.shields.io/badge/openai-10a37f?style=for-the-badge&logo=openai&logoColor=white&labelColor=191E23)
-![Claude Badge](https://img.shields.io/badge/claude-d97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=191E23)
-![LLM Badge](https://img.shields.io/badge/LLM-8b5cf6?style=for-the-badge\&logo=google-gemini\&labelColor=191E23)
-![RAG Badge](https://img.shields.io/badge/RAG-8b5cf6?style=for-the-badge\&logo=openai\&labelColor=191E23)
-![n8n Badge](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=191E23)
-![OpenClaw Badge](https://img.shields.io/badge/OpenClaw-191E23?style=for-the-badge\&labelColor=191E23)
-![AI Agents Badge](https://img.shields.io/badge/AI_Agents_%26_Function_Calling-8b5cf6?style=for-the-badge\&logo=openai\&labelColor=191E23)
-![AI Badge](https://img.shields.io/badge/AI-Assisted_Development-8b5cf6?style=for-the-badge&logo=openai&logoColor=white&labelColor=191E23)
-
----
-
-## ⚙️ Tools & Workflow
-
-![Git Badge](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&labelColor=191E23)
-![GitHub Badge](https://img.shields.io/badge/github-ffffff?style=for-the-badge&logo=github&labelColor=191E23&logoColor=000)
-![VSCode Badge](https://img.shields.io/badge/vscode-22a7f2?style=for-the-badge&logo=visual-studio-code&labelColor=191E23)
-![NPM Badge](https://img.shields.io/badge/npm-cb0001?style=for-the-badge&logo=npm&labelColor=191E23)
-![Webpack Badge](https://img.shields.io/badge/webpack-8dd6f9?style=for-the-badge&logo=webpack&labelColor=191E23)
-![Vite Badge](https://img.shields.io/badge/vite-646cff?style=for-the-badge&logo=vite&labelColor=191E23)
-![Playwright Badge](https://img.shields.io/badge/playwright-2fad33?style=for-the-badge&logo=playwright&labelColor=191E23)
-![Docker Badge](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&labelColor=191E23)
+* **WordPress:** Plugin Development, Gutenberg, Full Site Editing, WooCommerce, REST API Development, WP-CLI, WordPress Hooks
+* **Languages:** PHP (OOP), JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+* **Frontend:** React.js, Next.js, jQuery, Tailwind CSS
+* **AI & Automation:** LLM API Integration, AI-Assisted Development, Workflow Automation, n8n, OpenClaw
+* **Tools & Quality:** Git, GitHub Actions, CI/CD, NPM, Composer, Webpack, Vite, MySQL, PHPUnit, PHPCS, Playwright
 
 ---
 
