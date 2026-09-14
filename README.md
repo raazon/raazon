@@ -2,9 +2,13 @@
 
 🚀 **I build web products people depend on.**
 
-I specialize in **PHP, WordPress, WooCommerce, JavaScript, TypeScript, React, HTML, CSS, Gutenberg, REST APIs, and MySQL**, with experience building AI/LLM integrations and automation workflows using n8n and OpenClaw.
+I turn complex business problems into reliable web products, working across architecture, frontend, backend, and deployment.
 
-I work across the full development lifecycle, from **architecture and frontend/backend development to testing, deployment, and maintenance**, building software that meets real business needs.
+I’ve helped scale products used by millions, including leading **ElementsKit from 700K to nearly 2M active installations**.
+
+My work spans **WordPress, PHP, JavaScript, TypeScript, React, Gutenberg, WooCommerce, REST APIs, and AI/LLM integrations**.
+
+I care about building software that is **reliable, scalable, maintainable, and genuinely useful** — from the architecture underneath a product to the experience users interact with every day.
 
 ---
 ## 👨‍💻 About Me
@@ -16,7 +20,7 @@ I work across the full development lifecycle, from **architecture and frontend/b
 * 🤖 Working with **AI/LLM integrations and AI-assisted development workflows**
 * 👥 **Technical leadership, team mentorship, code review, and development lifecycle management**
 * 💬 Ask me about **WordPress, PHP, JavaScript, React, Gutenberg, WooCommerce, APIs, and software architecture**
-* 📫 Reach me at **[razonkumar@gmail.com](mailto:razonkumar@gmail.com)**
+* 📫 Reach me at **[raazzon@gmail.com](mailto:raazzon@gmail.com)**
 * ⚡ I enjoy turning complex requirements into **simple, maintainable software**
 
 ---
