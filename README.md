@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Razon
 
-🚀 **Full-Stack Web Developer** building and scaling web applications, WordPress products, and SaaS platforms that solve business needs and support product growth.
+🚀 **I build web products people depend on.**
 
 I specialize in **PHP, WordPress, WooCommerce, JavaScript, TypeScript, React, HTML, CSS, Gutenberg, REST APIs, and MySQL**, with experience building AI/LLM integrations and automation workflows using n8n and OpenClaw.
 
