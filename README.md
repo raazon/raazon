@@ -9,7 +9,7 @@ I work across the full development lifecycle, from **architecture and frontend/b
 ---
 ## 👨‍💻 About Me
 
-* 🧑‍💻 **Senior Full-Stack Web Developer** building and scaling web applications, WordPress products, and SaaS platforms
+* 🧑‍💻 **Senior Full-Stack Web Engineer** building and scaling web applications, WordPress products, and SaaS platforms
 * 🏗️ Experienced in **software architecture, full-stack development, and end-to-end product development**
 * ⚛️ Building frontend applications with **React, TypeScript, JavaScript, HTML, CSS, and REST APIs**
 * 🧩 Specialized in **WordPress, Gutenberg, WooCommerce, plugin development, and the WordPress ecosystem**
