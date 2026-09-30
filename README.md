@@ -70,42 +70,10 @@ WordPress table builder for data tables, WooCommerce product tables, and post ta
 
 ---
 
-## 💼 Work Experience
-
-### **WPMU DEV** — WordPress Developer
-
-*Remote | Dec 2025 – Aug 2026*
-
-### **Roxnor** — Senior Full-Stack Web Developer
-
-*Jan 2021 – Dec 2025*
-
-### **ITclan BD** — WordPress Developer
-
-*Dec 2017 – Dec 2020*
-
-### **Cloud Software Solution Ltd** — Junior Software Engineer
-
-*Feb 2016 – Nov 2017*
-
-### **Prestige Brokers Group LLC** — Web Developer
-
-*Remote | Jan 2015 – Dec 2016*
-
-### **Euroboats Yachtcharter GmbH** — WordPress Developer
-
-*Remote | Mar 2014 – Nov 2014*
-
-### **Upwork & Fiverr** — Freelance WordPress Developer
-
-*Remote | 2012 – 2014*
-
----
-
 ## 🛠️ Technical Skills
 
-* **WordPress:** Plugin Development, Gutenberg, Full Site Editing, WooCommerce, REST API Development, WP-CLI, WordPress Hooks
 * **Languages:** PHP (OOP), JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+* **WordPress:** Plugin Development, Gutenberg, Full Site Editing, WooCommerce, REST API Development, WP-CLI, WordPress Hooks
 * **Frontend:** React.js, Next.js, jQuery, Tailwind CSS
 * **AI & Automation:** LLM API Integration, AI-Assisted Development, Workflow Automation, n8n, OpenClaw
 * **Tools & Quality:** Git, GitHub Actions, CI/CD, NPM, Composer, Webpack, Vite, MySQL, PHPUnit, PHPCS, Playwright
