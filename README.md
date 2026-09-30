@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Razon
 
-🚀 **I build web products people depend on.**
+🚀 **I work on the boring parts of the web that keep things running.**
 
 I turn complex business problems into reliable web products, working across architecture, frontend, backend, and deployment.
 
